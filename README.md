@@ -5,5 +5,14 @@
 
 # Frontend
 
-- ### [HTML](https://github.com/rudgns1104/My_Study/blob/main/HTML/HTML.md)
+- ### [WEB](https://github.com/rudgns1104/My_Study/blob/main/Front/WEB.md)
+
 - ### [W3C](https://github.com/rudgns1104/My_Study/blob/main/Front/W3C.md)
+
+---
+
+<br>
+
+# HTML
+
+- ### [HTML](https://github.com/rudgns1104/My_Study/blob/main/HTML/HTML.md)
