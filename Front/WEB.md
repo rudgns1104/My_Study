@@ -24,7 +24,7 @@
 
 > 동적 웹 페이지(dynamic web page)
 >
-> > 처리하는 방식에 따라서 서버사이드와 클라이언트 사이드로 나뉘게 된다. <br> > > **server-side** dynamic web page `or` **client-side** dynamic web page
+> > 처리하는 방식에 따라서 서버사이드와 클라이언트 사이드로 나뉘게 된다. <br> **server-side** dynamic web page `or` **client-side** dynamic web page
 
 ## 특징
 
