@@ -16,3 +16,11 @@
 # HTML
 
 - ### [HTML](https://github.com/rudgns1104/My_Study/blob/main/HTML/HTML.md)
+
+---
+
+<br>
+
+# JS
+
+- ### [JavaScript](https://github.com/rudgns1104/My_Study/blob/main/JS/JavaScript.md)
