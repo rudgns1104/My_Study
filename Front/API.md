@@ -45,3 +45,11 @@
 ## 3. **Partner** API
 
 - 특정 비즈니스 파트너 간의 데이터 공유하며, 동의하는 특정인들만 사용할 수 있다.
+
+<br>
+
+# 아키텍처 스타일에 따른 API 종류
+
+1 **SOAP**(Simple Object Access Protocol) API
+
+- XML 메시지 형식을 사용하며 HTTP 또는 SMTP를 통해 요청을 수신합니다.
