@@ -14,7 +14,8 @@
 
 힙에는 두가지의 종류가있다. <br>
 
-![Max&Min](./img/Heap.png) 이미지 출처 : https://underdog11.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Heap
+![Max&Min](./img/Heap.png)
+<br> 이미지 출처 : https://underdog11.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Heap
 
 - **최대힙(Maxheap)** : 높은 값을 가진 element가 우선순위 위에 있다.
 
