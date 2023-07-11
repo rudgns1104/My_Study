@@ -33,4 +33,6 @@
 
 # Data Structure
 
+- ### [Data Structure](https://github.com/rudgns1104/My_Study/blob/main/Data%20Structure/Data%20Structure.md)
+
 - ### [Heap](https://github.com/rudgns1104/My_Study/blob/main/Data%20Structure/Heap.md)
