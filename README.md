@@ -11,6 +11,8 @@
 
 - ### [API](https://github.com/rudgns1104/My_Study/blob/main/Front/API.md)
 
+- ### [CSR&SSR](https://github.com/rudgns1104/My_Study/blob/main/Front/CSR_SSR.md)
+
 ---
 
 <br>
